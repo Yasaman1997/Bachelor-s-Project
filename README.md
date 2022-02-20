@@ -1,9 +1,11 @@
 # Final_project
-Obstacle Detection and Collision Avoidance
+
+*Obstacle Detection and Collision Avoidance*
 
 
 
 **Abstract**
+
 In this paper, we designed and implemented an intelligent obstacle detection
 system on Quadcopter.This task is a subset of both “Obstacle detection” and “object
 Following” problems in computer vision. In a populated area(objects and infinite
