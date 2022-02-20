@@ -1,4 +1,4 @@
-#Obstacle Detection and Collision Avoidance#
+****Obstacle Detection and Collision Avoidance****
 
 
 
@@ -15,3 +15,10 @@ application,in finding the injured or missing individuals during natural
 disasters,UAVs need to avoid collisions.Moreover,for mapping in civil
 engineering,or in dejsigning Autonomous cars’s collision Avoidance systems,as well
 as we can build safe systems for guinding the blind people, or children.
+
+
+Keywords: Quadcopter, Object Following,Guidance,Obstacle Detection,Collision
+Avoidance.
+
+
+<img width="399" alt="Screen Shot 2022-02-20 at 1 51 13 PM" src="https://user-images.githubusercontent.com/24721389/154859053-2a17d6ba-56d4-498d-b731-a963de8531c9.png">
